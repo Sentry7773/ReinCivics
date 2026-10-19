@@ -1,0 +1,8 @@
+{
+  "name": "CivicTrust / EcoVelocity Enterprise B2G",
+  "description": "B2G-grade civic infrastructure platform for community currencies, commitment vaults, hardship funds, emergency reserves, Living Treasury AI, and council planning intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
